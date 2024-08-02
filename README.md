@@ -8,7 +8,7 @@ Welcome to PresentPal Bot, an intelligent chatbot designed to help students and 
 
 PresentPal Bot is an AI-powered FAQ system that provides quick and accurate answers to questions about paper preparation, presentation guidelines, and related regulations. Leveraging the power of Google Palm LLM, HuggingFace embeddings, and FAISS vector stores, PresentPal Bot ensures that users have access to reliable information at their fingertips.
 
-![image](https://github.com/Neerajjv/RAG-LLM-PROJECT/assets/154986859/55db10d6-107a-437c-8be4-079cfc6e57fb)
+
 
 
 ## Features
