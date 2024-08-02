@@ -4,6 +4,8 @@
 
 Welcome to PresentPal Bot, an intelligent chatbot designed to help students and professionals navigate the rules and regulations for preparing and presenting papers. This project is part of the IBM SkillsBuild Internship for AICTE EduNet.
 
+<img width="1010" alt="Image" src="https://github.com/user-attachments/assets/34e5f4b8-6989-411e-94b3-a52eeba524e2">
+
 ## Overview
 
 PresentPal Bot is an AI-powered FAQ system that provides quick and accurate answers to questions about paper preparation, presentation guidelines, and related regulations. Leveraging the power of Google Palm LLM, HuggingFace embeddings, and FAISS vector stores, PresentPal Bot ensures that users have access to reliable information at their fingertips.
