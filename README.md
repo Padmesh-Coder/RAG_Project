@@ -2,7 +2,7 @@
 
 # PresentPal Bot
 
-Welcome to PresentPal Bot, an intelligent chatbot designed to help students and professionals navigate the rules and regulations for preparing and presenting papers. This project is part of the IBM SkillsBuild Internship for AICTE EduNet.
+Welcome to PresentPal Bot, an intelligent chatbot designed to help students and professionals navigate the rules and regulations for preparing and presenting papers.
 
 <img width="1010" alt="Image" src="https://github.com/user-attachments/assets/34e5f4b8-6989-411e-94b3-a52eeba524e2">
 
